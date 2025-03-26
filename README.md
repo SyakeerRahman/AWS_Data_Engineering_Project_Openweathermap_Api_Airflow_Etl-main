@@ -1,13 +1,14 @@
-# stock-market-kafka-data-engineering-project-main
+# AWS Openweathermap API ETL
 
-![Stock Market-Stock Market Kafka](https://github.com/user-attachments/assets/00dedfa8-0b47-4f8d-8de5-7619d78b3a46)
+<img width="553" alt="image" src="https://github.com/user-attachments/assets/d425a300-da55-4aeb-80c5-8eb30ef34948" />
+
 
 Real Time Stock Market Data Pipeline 
-AWS Cloud Data Engineering Project |Data Pipeline using Apache Kafka, Python, Glue, S3, Athena
+AWS Cloud Data Engineering Project |Data Pipeline using Python, Airflow, S3
 
-I want to share my latest Data Engineering project where I put my skills to the test by working with an AWS cloud using Apache Kafka and load into Athena
+I want to share my latest Data Engineering project where I put my skills to the test by working with an AWS cloud using Python and load into S3
 
-🔬𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄: End-to-end data engineering on AWS. Where I ingested data from file to S3 using Kafka, loaded it into Athena. Also used IAM and VPC for data governance. More information can be found in the GitHub repository.
+🔬𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄: End-to-end data engineering on AWS. Where I ingested data from file to S3 using Python. Also used IAM and VPC for data governance. More information can be found in the GitHub repository.
 
 💾 𝗗𝗮𝘁𝗮 𝗦𝗼𝘂𝗿𝗰𝗲: https://openweathermap.org/api
 
